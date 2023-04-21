@@ -1,4 +1,4 @@
-name: yolov8-sandbox
+name: yolov8-training
 channels:
   - pytorch
   - nvidia
@@ -194,4 +194,4 @@ dependencies:
       - werkzeug==2.2.3
       - wget==3.2
       - zipp==3.15.0
-prefix: /home/yams/miniconda3/envs/yolov8-sandbox
+prefix: /home/yams/miniconda3/envs/yolov8-testing
