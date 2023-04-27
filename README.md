@@ -6,7 +6,7 @@ You will need to have conda installed on the system. Miniconda should suffice
 
 ### Clone the repo
 ```bash
-git clone git@github.com:yamanadamnor/chair-training.git
+git clone git@github.com:upcycling-kandidat/chair-training.git
 cd chair-training
 ```
 ### Create a new conda environment
